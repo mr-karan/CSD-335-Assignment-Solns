@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98cc0337-d77f-40cf-9a40-c4be66ad1bcb" name="Default" comment="&quot;some more problems added&quot;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem14.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem15.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem16.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSD335.iml" afterPath="$PROJECT_DIR$/CSD335.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/assignment1/problem12.java" afterPath="$PROJECT_DIR$/src/com/assignment1/problem12.java" />
+    <list default="true" id="98cc0337-d77f-40cf-9a40-c4be66ad1bcb" name="Default" comment="&quot;till 15&quot;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem17.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem18.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem19.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem20.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/assignment1/problem21.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/assignment1/problem16.java" afterPath="$PROJECT_DIR$/src/com/assignment1/problem16.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CSD335.iws" />
@@ -31,43 +30,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="problem13.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem13.java">
+      <file leaf-file-name="problem19.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem19.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="problem14.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem15.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem15.java">
+      <file leaf-file-name="problem20.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem20.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem16.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem16.java">
+      <file leaf-file-name="problem21.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22613065">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.7236181">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,6 +101,12 @@
         <option value="$PROJECT_DIR$/src/com/assignment1/problem13.java" />
         <option value="$PROJECT_DIR$/src/com/assignment1/problem14.java" />
         <option value="$PROJECT_DIR$/src/com/assignment1/problem15.java" />
+        <option value="$PROJECT_DIR$/src/com/assignment1/problem16.java" />
+        <option value="$PROJECT_DIR$/src/com/assignment1/problem17.java" />
+        <option value="$PROJECT_DIR$/src/com/assignment1/problem18.java" />
+        <option value="$PROJECT_DIR$/src/com/assignment1/problem19.java" />
+        <option value="$PROJECT_DIR$/src/com/assignment1/problem20.java" />
+        <option value="$PROJECT_DIR$/src/com/assignment1/problem21.java" />
       </list>
     </option>
   </component>
@@ -211,15 +204,15 @@
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$" />
     <property name="findjar.last.used.dir" value="$APPLICATION_HOME_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.problem15">
-    <configuration default="false" name="problem12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.problem21">
+    <configuration default="false" name="problem17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem12" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem17" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -232,14 +225,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="problem13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="problem18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem13" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem18" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -252,14 +245,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="problem9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="problem19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem9" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem19" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -272,14 +265,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="problem8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="problem20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem8" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem20" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -292,14 +285,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="problem15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="problem21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem15" />
+      <option name="MAIN_CLASS_NAME" value="com.assignment1.problem21" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -558,19 +551,19 @@
       <item index="1" class="java.lang.String" itemvalue="Application.problem11" />
       <item index="2" class="java.lang.String" itemvalue="Application.problem14" />
       <item index="3" class="java.lang.String" itemvalue="Application.problem5" />
-      <item index="4" class="java.lang.String" itemvalue="Application.problem12" />
-      <item index="5" class="java.lang.String" itemvalue="Application.problem13" />
-      <item index="6" class="java.lang.String" itemvalue="Application.problem9" />
-      <item index="7" class="java.lang.String" itemvalue="Application.problem8" />
-      <item index="8" class="java.lang.String" itemvalue="Application.problem15" />
+      <item index="4" class="java.lang.String" itemvalue="Application.problem17" />
+      <item index="5" class="java.lang.String" itemvalue="Application.problem18" />
+      <item index="6" class="java.lang.String" itemvalue="Application.problem19" />
+      <item index="7" class="java.lang.String" itemvalue="Application.problem20" />
+      <item index="8" class="java.lang.String" itemvalue="Application.problem21" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.problem15" />
-        <item index="1" class="java.lang.String" itemvalue="Application.problem13" />
-        <item index="2" class="java.lang.String" itemvalue="Application.problem12" />
-        <item index="3" class="java.lang.String" itemvalue="Application.problem9" />
-        <item index="4" class="java.lang.String" itemvalue="Application.problem8" />
+        <item index="0" class="java.lang.String" itemvalue="Application.problem21" />
+        <item index="1" class="java.lang.String" itemvalue="Application.problem20" />
+        <item index="2" class="java.lang.String" itemvalue="Application.problem19" />
+        <item index="3" class="java.lang.String" itemvalue="Application.problem18" />
+        <item index="4" class="java.lang.String" itemvalue="Application.problem17" />
       </list>
     </recent_temporary>
   </component>
@@ -615,7 +608,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440967793252</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;till 15&quot;">
+      <created>1440969587158</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1440969587158</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -638,7 +637,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32861635" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32861635" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -668,7 +667,8 @@
     <MESSAGE value="&quot;problem2&quot;" />
     <MESSAGE value="&quot;more problems&quot;" />
     <MESSAGE value="&quot;some more problems added&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;some more problems added&quot;" />
+    <MESSAGE value="&quot;till 15&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;till 15&quot;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -869,36 +869,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.09045226">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22613065">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.40703517">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.80904526">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45728642">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assignment1/problem21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7236181">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
