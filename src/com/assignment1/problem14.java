@@ -9,7 +9,7 @@ public class problem14 {
         int i = 0;
         int j = 0;
         //PATTERN1
-
+        System.out.println("Pattern 1");
         for (i = 0; i < 5; i++)        //5*5
         {
             for (j = 0; j < 5; j++) {
