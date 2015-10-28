@@ -4,6 +4,7 @@ import com.SNU.geometryUtil.circle;
 import com.SNU.geometryUtil.rectangle;
 import com.SNU.geometryUtil.square;
 import com.SNU.geometryUtil.triangle;
+import com.lab3.name;
 
 
 /**
@@ -25,5 +26,13 @@ public class admin {
         System.out.println(pofr);
         System.out.println(pofs);
         System.out.println(poft);
+
+        name N = new name("Karan", "Sharma", "Ram");
+        name X = new name("Karan", "singh", "ram");
+        String nname = N.getName();
+        String xname = X.getName();
+        N.sameNames(nname, xname);
+        N.sameInitals(nname, xname);
+
     }
 }
