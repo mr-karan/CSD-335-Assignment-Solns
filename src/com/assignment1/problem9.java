@@ -1,6 +1,6 @@
 package com.assignment1;
 
-import org.apache.commons.lang.ArrayUtils;
+//import org.apache.commons.lang.ArrayUtils;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  * Created by karan on 31/8/15.
- */
+
 public class problem9 {
     public static void main(String[] args) {
         int[] total;
@@ -27,3 +27,4 @@ public class problem9 {
 
     }
 }
+*/
